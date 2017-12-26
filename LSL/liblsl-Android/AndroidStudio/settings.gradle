@@ -1,1 +1,1 @@
-include ':ReceiveStringMarkers', ':SendStringMarkers'
+include ':ReceiveStringMarkers', ':SendStringMarkers', ':androidlibtest', 'AndroidLibLSL', ':AndroidLibLSL-release'
